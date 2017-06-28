@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<repository
+name="MyApplicationRepository"
+id="0c891b71-f105-4f80-ac0c-63e2d510f273"
+rxversion="7.0">
+  <codegen
+  classname="MyApplicationRepository"
+  namespace="MyApplication"/>
+  <rootfolder
+  name="Root"
+  id="e83e8ad1-7036-4c5a-a0d4-e7a8c414c27f"
+  searchtimeout="30000ms"
+  capname="unknown"
+  isrooted="True"
+  usecache="True">
+    <basepath/>
+  </rootfolder>
+  <variables/>
+</repository>
